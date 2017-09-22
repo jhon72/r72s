@@ -13,6 +13,8 @@ The updated version can be downloaded on GitHub. The archive will be downloaded,
 Usage: Download Torrent file:/or clone this git (WARNING: in folder software, not all soft my realized button in project uploaded in this services)
 
 Download Master File for ONLY editing .html & .css files, for use most recommended download .torrent <====
+
+# UPDATE!!! DOWNLOAD FINAL SOFTWARE (HTML COMPILER TO EXE) My Projects RestSoft72 on: https://drive.google.com/open?id=0Bz13hdEKMhKudjZ0T0hPSHBVcWs 
 */
 
 /* {RUS}
@@ -29,4 +31,6 @@ Download Master File for ONLY editing .html & .css files, for use most recommend
 Использование: Скачать файл Torrent: / или клонировать этот git (ПРЕДУПРЕЖДЕНИЕ: в software папке, не все программы и мои реализованные кнопки в проекте не будут функционировать без них)
 
 Загрузите мастер-файл для ТОЛЬКО редактирования .html и .css-файлов, для использования рекомендуется загрузка .torrent <====
+
+# ОБНОВЛЕНО!!! СКАЧАЙТЕ ГОТОВУЮ ОДНОФАЙЛОВУЮ ПРОГРАММУ НЕ ТРЕБУЩУЮ УСТАНОВКИ (HTML СКОМПИЛИРОВАН В EXE) по сслыке: https://drive.google.com/open?id=0Bz13hdEKMhKudjZ0T0hPSHBVcWs
 */
