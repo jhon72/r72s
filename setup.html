@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+        <html>
+            <head>
+                <title>ResSoft</title>
+                    <meta charset="utf-8">
+                    <link rel="stylesheet" href="style/main.css">
+                    <link rel="stylesheet" href="style/body.css">
+                    <link rel="stylesheet" href="style/other.css">
+                        <style>
+                            body {
+                            background: url(img/cover/1.jpg);}
+                        </style>
+                        <style>
+                             a.button7 {
+                          font-weight: 700;
+                          color: white;
+                          text-decoration: none;
+                          padding: .8em 1em calc(.8em + 3px);
+                          border-radius: 3px;
+                          background: darkcyan;
+                          box-shadow: 0 -3px rgb(53,167,110) inset;
+                          transition: 0.2s;
+                            } 
+                            a.button7:hover { background: lightblue; }
+                            a.button7:active {
+                          background: darkcyan;
+                          box-shadow: 0 3px rgb(33,147,90) inset;
+                            }
+                          </style>    
+                      <body>
+                    <nav role='navigation'>
+                  <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="info.html">Информация о сервисе</a></li>
+                <li><a href="setup.html" class="active">Настройка Windows</a></li>
+                <li><a href="">Скачать Windows</a>
+                  <ul>
+                    <li><a href="http://go.microsoft.com/fwlink/?LinkId=691209" target="_blank" rel="nofollow">Windows 10 (64&32bit)</a>
+                    <li><a href="http://go.microsoft.com/fwlink/p/?LinkId=510815" target="_blank" rel="nofollow">Windows 8.1 (64&32bit)</a>
+                    <li><a href="https://www.microsoft.com/ru-ru/evalcenter/evaluate-windows-server-2016" target="_blank" rel="nofollow">Windows Server 2016 Data Centr Evaulation</a> 
+                  </ul>
+                  </li>
+                    <li><a href="instwinos.html">Установка Windows</a></li>                    
+                    <li><a href="contacts.html">Контакты</a></li>
+                    <li><a href="">Софт</a>
+                  <ul>
+                    <li><a href="windrv.html">Основные драйвера</a>
+                    <li><a href="utilites.html">Утилиты</a>
+                    <li><a href="office.html">Офис</a>
+                    <li><a href="server.html">Сервер</a> 
+                  </ul>
+                  </li>
+                  </ul>
+            </nav> 
+          <br><br><br><br><br><br>
+               <div class="hdr" align="center">
+	               <span>R</span><span>e</span><span>s</span><span>t</span><span>a</span><span>r</span><span>t</span><span>7</span><span>2</span>
+	                <div><span>S</span><span>o</span><span>f</span><span>t</span><span></span></div>        
+               </div><br><br><br>
+                <div class="container">
+                    <div class="bubble">
+                        <div class="info"><h1>Сижу, смотрю в окно, да только грязное оно...Протираем!</h1><p>Первое что так дико бросается в глаза, так это куча хлама, который по сути 75% пользователей попросту не используют. Давайте удалим весь этот мусор буквально за несколько действий. Для начала нам нужно открыть Windows Power Shell</p><br><img src="img/soft/2.PNG" width="700" height="400"><br><p>Директория такая: "C/Windows/System32/WindowsPowerShell/v1.0", запускаем приложение и вводим команду "Get-AppxPackage | Remove-AppxPackage" и нажимаем Enter. Вот так как на скрине должно быть</p><br><img src="img/soft/3.PNG" width="700" height="400"><br><p>Не пугайтесь происходящего на экране, а просто дождитесь окончания процесса и закройте даную утилиту! Готово. Хлама больше нет!!!</p>                
+                    </div>
+                </div>
+            </div>
+        <br><br><br>
+         <div class="container">
+                    <div class="bubble">
+                        <div class="info"><h1>Перекрываем воздух злодеям, но это не антивирус! Помаши рукой Амиго и Mail.ru Group</h1><p>Открываем Локальную политику безопасности в меню "пуск" в разделе Администрирование, как показано на скриншоте</p><br><img src="img/soft/1.PNG" width="700" height="400"><br><p>Скачиваем XML файл по <a href="https://drive.google.com/open?id=0B0wPdR-nhl7eQTRYTktxbnAyNXc" target="_blank" rel="nofollow">этой</a> ссылке, который содержит правил запрещающие установку указанного софта.</p><br><img src="img/soft/0.PNG" width="700" height="400"><br><p>Нажмите на App Locker правой кнопкой мыши и выбирете "Импортировать политику", затем выбирете скачанный файл и подтвердите нажатием на ОК. После вы увидите подобный список в App Locker</p><br><img src="img/soft/-1.PNG" width="700" height="400"><br>                
+                    </div>
+                </div>
+            </div>
+         <br><br><br>
+             <div class="container">
+                    <div class="bubble">
+                        <div class="info"><h1>Пора обновится...Пора обновится...Да нет! Не пора!</h1><p>Конечно не спорю, обновления полезны и закрывают дыры и прочие глюки в ОС, но частое обновление, ни кем не протестированное, зачастую вредит компьютеру и скажем так из за него приходится устанавливать ОС повторно. Отключим автоматические обновления. Нажмите "Win+R" и введите service.msc и нажмите Enter</p><br><img src="img/soft/4.PNG" width="700" height="400"><br><p>Откроются службы, затем листайте в самый низ, найдите Центр Обновления Windows</p><br><img src="img/soft/5.PNG" width="700" height="600"><br><p>Откройте и в пункте "Тип запуска" нажмите "Отключена" как показано на скриншоте</p><br><img src="img/soft/6.PNG" width="700" height="600"><p>На этом не все. Также нужно отключить обновления в редакторе групповой политики. Жмем "Win+R" и вводим gpedit.msc и нажимаем Enter.</p><br><img src="img/soft/7.PNG" width="700" height="400"><br><p>Откроется редактор, разверните Административные Шаблоны/Компоненты Windows как показано на скриншоте и листайте вниз, необходимо найти Автоматическое обновление Windows</p><br><img src="img/soft/10.PNG" width="700" height="400"><br><p>Нажмите настройка автоматического обновления и как показано на следуйщем скриншоте, выбирете вариант "Отключено"</p><br><img src="img/soft/11.PNG" width="700" height="600"><br><p>Готово. Обновления отключены навсегда. Не закрывайте редактор групповой политики, он нам еще пригодится!!!</p>           
+                     </div>
+                 </div>
+            </div>
+         <br><br><br>
+             <div class="container">
+                    <div class="bubble">
+                        <div class="info"><h1>Антивирус. Как и обновления. Лучше отключить, а если нужен, скачать свой.</h1><p>Уж слишком коварен стандартный защитник Windows и не оптимизирован. Лучше поставить свой на свое усмотрение, чем использовать данный стандарт. Давайте его отключим! Помните, в предидущем пункте я говорил не закрывать редактор. Так вот. В этом же списке где вы нашли обновления, найдите Антивирусная Программа "Защитник Windows". На скриншоте маркером отмечено что нужно нажать на "Отключить защитник Windows" в открывшемся меню нужно поставить галочку на включено</p><br><img src="img/soft/12.PNG" width="700" height="400"><br><p>Готово. Защитник отключен!!!</p>                
+                    </div>
+                </div>
+            </div>
+        <br><br><br>
+            <div class="container">
+                    <div class="bubble">
+                        <div class="info"><h1>Активация Windows</h1><p>Тут все делается гораздо проще, потому что сложности уже позади. Нажмите на кнопку:<br><br> <a href="software/KMSAuto%20Net.exe" class="button7">Скачать активатор Windows</a><br><br>Сохраните на рабочий стол и запустите. В открывшейся программе, нажмите "Активация" </p><br><img src="img/soft/13.PNG" width="700" height="600"><br><p>Дождитесь окончания процесса. Windows Активирована. </p>                
+                    </div>
+                </div>
+            </div>
+        <br><br><br>
+            <div class="container">
+                    <div class="bubble">
+                        <div class="info"><h1>Поздравляем с успешной настройкой ОС Windows</h1>                
+                    </div>
+                </div>
+            </div>
+         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+           </body>
+                <footer class="footer" align="center"><br><br>
+	                <strong>Restart72 Soft &copy;2017 All rights reserved</strong>
+               </footer>
+            </head>
+          </html>       
