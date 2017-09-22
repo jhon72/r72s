@@ -1,0 +1,28 @@
+/*Футер*/
+footer {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    
+}
+
+html {
+	height: 100%;
+}
+footer {
+	display: block;
+}
+
+.footer {
+	margin: -100px auto 0;
+	min-width: 100%;
+	max-width: 100%;
+	height: 100px;
+	background: lightgrey;
+	position: fixed;
+    bottom: 0;
+}
+
