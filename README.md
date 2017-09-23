@@ -14,7 +14,7 @@ Usage: Download Torrent file:/or clone this git (WARNING: in folder software, no
 
 Download Master File for ONLY editing .html & .css files, for use most recommended download .torrent <====
 
-# UPDATE!!! DOWNLOAD FINAL SOFTWARE (HTML COMPILER TO EXE) My Projects RestSoft72 on: https://drive.google.com/open?id=0Bz13hdEKMhKudjZ0T0hPSHBVcWs 
+# UPDATE!!! DOWNLOAD FINAL SOFTWARE (HTML COMPILER TO EXE) My Projects RestSoft72 on: https://drive.google.com/open?id=0Bz13hdEKMhKuWkpBZTVXMFhfTjA 
 */
 
 /* {RUS}
@@ -32,5 +32,5 @@ Download Master File for ONLY editing .html & .css files, for use most recommend
 
 Загрузите мастер-файл для ТОЛЬКО редактирования .html и .css-файлов, для использования рекомендуется загрузка .torrent <====
 
-# ОБНОВЛЕНО!!! СКАЧАЙТЕ ГОТОВУЮ ОДНОФАЙЛОВУЮ ПРОГРАММУ НЕ ТРЕБУЩУЮ УСТАНОВКИ (HTML СКОМПИЛИРОВАН В EXE) по сслыке: https://drive.google.com/open?id=0Bz13hdEKMhKudjZ0T0hPSHBVcWs
+# ОБНОВЛЕНО!!! СКАЧАЙТЕ ГОТОВУЮ ОДНОФАЙЛОВУЮ ПРОГРАММУ НЕ ТРЕБУЩУЮ УСТАНОВКИ (HTML СКОМПИЛИРОВАН В EXE) по сслыке: https://drive.google.com/open?id=0Bz13hdEKMhKuWkpBZTVXMFhfTjA
 */
